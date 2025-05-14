@@ -1,0 +1,19 @@
+{
+  "name": "htmx-json-attribute",
+  "version": "1.0.0",
+  "description": "HTMX extension for sending plain JSON data (w/o HTML form) defined at attribute level.",
+  "main": "json-attribute.js",
+  "author": "Bence Lukács (numasi)",
+  "licence": "MIT",
+  "homepage": "https://github.com/numasi/htmx-json-attribute#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/numasi/htmx-json-attribute.git"
+  },
+  "keywords": [
+    "htmx",
+    "htmx-extension",
+    "json",
+    "attribute"
+  ]
+}
