@@ -1,7 +1,7 @@
 {
   "name": "htmx-json-attribute",
   "version": "1.0.0",
-  "description": "HTMX extension for sending plain JSON data (w/o HTML form) defined at attribute level.",
+  "description": "HTMX extension for sending plain JSON data defined at attribute level (w/o HTML form)",
   "main": "json-attribute.js",
   "author": "Bence Lukács (numasi)",
   "licence": "MIT",

@@ -1,4 +1,4 @@
-### HTMX extension for sending plain JSON data (w/o HTML form) defined at attribute level
+### HTMX extension for sending plain JSON data defined at attribute level (w/o HTML form) 
 
 ## Use
 
