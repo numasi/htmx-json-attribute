@@ -23,3 +23,8 @@ Clone repo, grab and link json-attribute.js
 ></div>
 ```
 See full example at [this repo](https://github.com/numasi/htmx-examples)
+
+## Todo
+- Minify
+- ESM module version
+- Add to unpkg, NPM
