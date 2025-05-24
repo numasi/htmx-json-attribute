@@ -22,7 +22,8 @@ Clone repo, grab and link json-attribute.js
   }'
 ></div>
 ```
-See full example at [this repo](https://github.com/numasi/htmx-examples)
+
+See full example at [this repo](https://github.com/numasi/htmx-jsx-json-example/)!
 
 ## Todo
 - Minify
